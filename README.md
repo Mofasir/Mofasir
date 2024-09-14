@@ -1,6 +1,4 @@
-## Hi there 👋
-
-# 💫 About Me:
+# 💫 Hi there 👋
 I am an Informatics student at Universitas Siliwangi with a deep interest in **Web Development** and **Data Science**. I enjoy learning and building projects that bridge the gap between technology and real-world problems. On my journey to becoming a skilled developer, I focus on improving my skills in front-end web development, machine learning, and data analysis.<br><br>Feel free to explore my repositories and connect with me!
 
 
